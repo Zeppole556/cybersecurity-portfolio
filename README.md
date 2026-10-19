@@ -83,7 +83,12 @@ All offensive security testing will be conducted within authorized lab environme
 
 ## Hands-On Cybersecurity Training
 
-I'm actively developing Blue Team and SOC skills through TryHackMe, focusing on defensive security, network fundamentals, security monitoring, and incident investigation.
+I'm actively developing practical skills in both offensive and defensive cybersecurity through TryHackMe and independent lab environments.
+
+My training focuses on SOC operations, threat detection, incident response, network reconnaissance, vulnerability assessment, ethical hacking, and penetration testing fundamentals.
+
+I use hands-on labs to strengthen my technical understanding, practice security investigation techniques, and develop the analytical skills necessary to identify, assess, and mitigate security risks.
+
 
 [View My TryHackMe Profile](https://tryhackme.com/p/Zeppole556)
 
