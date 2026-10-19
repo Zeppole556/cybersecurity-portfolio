@@ -51,10 +51,16 @@ Each completed project will include documented methodology, findings, evidence, 
 - Defensive Security Fundamentals
 - Security Tools and Investigation Techniques
 
-## Connect With Me
-
-[LinkedIn](www.linkedin.com/in/steve-dangelo-iii)
-
 ---
 
-*Building practical security skills through continuous learning, technical projects, and hands-on investigation.*
+
+## Hands-On Cybersecurity Training
+
+I'm actively developing Blue Team and SOC skills through TryHackMe, focusing on defensive security, network fundamentals, security monitoring, and incident investigation.
+
+[View My TryHackMe Profile](https://tryhackme.com/p/Zeppole556)
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/steve-dangelo-iii/)
+
