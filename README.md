@@ -1,7 +1,7 @@
 
 # Cybersecurity & Enterprise IT Portfolio
 
-### Blue Team | SOC Operations | Atlassian Administration
+## Blue Team | Penetration Testing | SOC Operations | Enterprise IT Security
 
 Welcome to my cybersecurity portfolio!
 
@@ -13,14 +13,29 @@ My professional background includes administering Jira and Confluence environmen
 
 Before entering IT, I served in the United States Navy as a Fleet Marine Force Hospital Corpsman.
 
+
 ## Cybersecurity Focus
 
+### Defensive Security — Blue Team
 - Security Operations Center (SOC)
-- Blue Team Operations
 - Security Monitoring and Alert Triage
 - Threat Detection and Incident Response
 - Network Security
 - Identity and Access Management
+
+### Offensive Security — Red Team Fundamentals
+- Ethical Hacking and Penetration Testing
+- Vulnerability Assessment
+- Network Reconnaissance
+- Web Application Security
+- Security Testing Methodologies
+
+### Enterprise IT Security
+- Atlassian Security Administration
+- Access Control and Permission Management
+- Security Configuration and Hardening
+- Enterprise IT Troubleshooting
+
 
 ## Technical Background
 
