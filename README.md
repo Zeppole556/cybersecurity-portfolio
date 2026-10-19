@@ -5,7 +5,7 @@
 
 Welcome to my cybersecurity portfolio!
 
-I'm an IT professional with experience in enterprise Atlassian administration and a growing specialization in defensive cybersecurity.
+I'm an IT professional with experience in enterprise Atlassian administration and a growing specialization in both defensive and offensive cybersecurity.
 
 I'm pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU), while developing hands-on security skills through TryHackMe and independent labs.
 
@@ -51,19 +51,31 @@ This portfolio is under active development.
 
 Planned projects include:
 
+### Blue Team — Defensive Security
 1. Phishing Email Investigation
-2. Network Traffic Analysis using Wireshark
+2. Network Traffic Analysis — Wireshark
 3. SOC Alert Triage and Log Analysis
-4. Atlassian Security and Permissions Audit
-5. Windows Security Event Investigation
+4. Windows Security Event Investigation
 
-Each completed project will include documented methodology, findings, evidence, and recommendations.
+### Offensive Security — Penetration Testing
+5. Network Reconnaissance — Nmap
+6. Vulnerability Assessment — Authorized Lab
+7. Web Application Penetration Testing — Training Environment
+
+### Enterprise Security
+8. Atlassian Security and Permissions Audit
+
+Each completed project will include the objective, tools used, investigation methodology, findings, evidence, and recommendations.
+
+All offensive security testing will be conducted within authorized lab environments.
 
 ## Current Learning
 
 - WGU Cybersecurity and Information Assurance
 - TryHackMe Blue Team and SOC Training
+- Offensive Security Fundamentals
 - Defensive Security Fundamentals
+- Ethical Hacking
 - Security Tools and Investigation Techniques
 
 ---
